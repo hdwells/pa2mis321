@@ -1,0 +1,16 @@
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\obj\Debug\net5.0\pa2mis321.csproj.AssemblyReference.cache
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\obj\Debug\net5.0\pa2mis321.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\obj\Debug\net5.0\pa2mis321.AssemblyInfoInputs.cache
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\obj\Debug\net5.0\pa2mis321.AssemblyInfo.cs
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\obj\Debug\net5.0\pa2mis321.csproj.CoreCompileInputs.cache
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\bin\Debug\net5.0\pa2mis321.exe
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\bin\Debug\net5.0\pa2mis321.deps.json
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\bin\Debug\net5.0\pa2mis321.runtimeconfig.json
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\bin\Debug\net5.0\pa2mis321.runtimeconfig.dev.json
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\bin\Debug\net5.0\pa2mis321.dll
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\bin\Debug\net5.0\ref\pa2mis321.dll
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\bin\Debug\net5.0\pa2mis321.pdb
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\obj\Debug\net5.0\pa2mis321.dll
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\obj\Debug\net5.0\ref\pa2mis321.dll
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\obj\Debug\net5.0\pa2mis321.pdb
+C:\Users\hanna\OneDrive\Desktop\source\mis321\pa2mis321\obj\Debug\net5.0\pa2mis321.genruntimeconfig.cache
